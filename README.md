@@ -1,5 +1,4 @@
-# NASA-RUL-Assignment
-#Predictive Maintenance Using LSTM and GRU on NASA Turbofan Engine Dataset
+# Predictive Maintenance Using LSTM and GRU on NASA Turbofan Engine Dataset
 **Project Overview**
 
 This project implements predictive maintenance by predicting the Remaining Useful Life (RUL) of aircraft engines using two types of neural networks: Long Short-Term Memory (LSTM) networks and Gated Recurrent Units (GRU). The NASA CMAPSS Turbofan Engine dataset is utilized to develop and compare the performance of these models.
